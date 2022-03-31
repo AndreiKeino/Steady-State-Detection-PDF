@@ -2,7 +2,7 @@ my article
 
 Simple and effective algorithm for constant state detection in time series.
 
-License: Creative Common License
+License: GPLv3
 
-https://creativecommons.org/licenses/
+
 
